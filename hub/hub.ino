@@ -65,6 +65,4 @@ void turnOnRgb(uint8_t r, uint8_t g, uint8_t b) {
   analogWrite(RED, 255-r);
   analogWrite(GREEN, 255-g);
   analogWrite(BLUE, 255-b);
-  
-
 }
