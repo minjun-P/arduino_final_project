@@ -1,0 +1,8 @@
+<node>
+- IRemote (수업시간에 사용한 적외선 송수신 라이브러리)
+- NewPing (수업시간에 사용한 초음파 거리 센서 라이브러리)
+
+<hub>
+- IRemote (수업시간에 사용한 적외선 송수신 라이브러리)
+- DHT (수업시간에 사용한 온습도 센서 라이브러리)
+- LiquidCrystal_I2C_Hangul, Wire (2wire i2c 통신 위한 LCD 라이브러리 - 수업시간에 사용)
